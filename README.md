@@ -7,7 +7,7 @@
 *Crafting intuitive, user-centered digital experiences — where design meets code.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asaad-shaikh-71597124a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://asaadshaikh.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://asaad56.github.io)
 
 </div>
 
