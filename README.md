@@ -106,7 +106,6 @@ I'm actively looking for **UI/UX Design internship** opportunities. If you're bu
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-c8a97e?style=for-the-badge&logo=github&logoColor=black)](https://asaad56.github.io)
 [![Resume](https://img.shields.io/badge/Resume-Download-white?style=for-the-badge&logo=adobeacrobatreader&logoColor=black)](https://asaad56.github.io/ASAAD_SHAIKH.pdf)
-[![Certificate](https://img.shields.io/badge/UI%2FUX%20Certificate-View-c8a97e?style=for-the-badge&logo=awwwards&logoColor=black)](https://asaad56.github.io/UIUX_CERTIFICATE.png)
 [![Email](https://img.shields.io/badge/Email-asaadwork7866%40gmail.com-c8a97e?style=for-the-badge&logo=gmail&logoColor=black)](mailto:asaadwork7866@gmail.com)
 
 </div>
