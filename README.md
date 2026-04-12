@@ -52,12 +52,12 @@ I'm an **entry-level UI/UX design enthusiast** pursuing B.Tech in Computer Scien
 
 ## 🚀 Projects
 
-### 🔵 Dry N Wet — `Ongoing`
+### 🔵 Dry N Wet — `Completed`
 > Low-Fidelity UX Case Study · Jan 2026 · 10+ Screens
 
 A product design project focused on solving real user needs through structured wireframes and design thinking methodology.
 
-- ✅ Created low-fidelity wireframes based on user needs & problem statements
+- ✅ Created High-fidelity wireframes based on user needs & problem statements
 - ✅ Defined user flow and information architecture
 - ✅ Applied design thinking principles to structure layouts
 
