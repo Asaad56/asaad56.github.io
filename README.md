@@ -113,5 +113,5 @@ I'm actively looking for **UI/UX Design internship** opportunities. If you're bu
 ---
 
 <div align="center">
-  <sub>Designed & developed with ♥ by Asaad Shaikh · Open to Internships · Maharashtra, India</sub>
+  <sub>Designed & developed with ♥ by Asaad Shaikh · Open to Internships and Working Opportunities · Maharashtra, India</sub>
 </div>
